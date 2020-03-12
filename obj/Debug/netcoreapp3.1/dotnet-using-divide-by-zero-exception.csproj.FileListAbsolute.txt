@@ -1,0 +1,11 @@
+D:\CodeGym\Practice\dotnet-using-divide-by-zero-exception\bin\Debug\netcoreapp3.1\dotnet-using-divide-by-zero-exception.exe
+D:\CodeGym\Practice\dotnet-using-divide-by-zero-exception\bin\Debug\netcoreapp3.1\dotnet-using-divide-by-zero-exception.deps.json
+D:\CodeGym\Practice\dotnet-using-divide-by-zero-exception\bin\Debug\netcoreapp3.1\dotnet-using-divide-by-zero-exception.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-using-divide-by-zero-exception\bin\Debug\netcoreapp3.1\dotnet-using-divide-by-zero-exception.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-using-divide-by-zero-exception\bin\Debug\netcoreapp3.1\dotnet-using-divide-by-zero-exception.dll
+D:\CodeGym\Practice\dotnet-using-divide-by-zero-exception\bin\Debug\netcoreapp3.1\dotnet-using-divide-by-zero-exception.pdb
+D:\CodeGym\Practice\dotnet-using-divide-by-zero-exception\obj\Debug\netcoreapp3.1\dotnet-using-divide-by-zero-exception.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-using-divide-by-zero-exception\obj\Debug\netcoreapp3.1\dotnet-using-divide-by-zero-exception.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-using-divide-by-zero-exception\obj\Debug\netcoreapp3.1\dotnet-using-divide-by-zero-exception.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-using-divide-by-zero-exception\obj\Debug\netcoreapp3.1\dotnet-using-divide-by-zero-exception.dll
+D:\CodeGym\Practice\dotnet-using-divide-by-zero-exception\obj\Debug\netcoreapp3.1\dotnet-using-divide-by-zero-exception.pdb

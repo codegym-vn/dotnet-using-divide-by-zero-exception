@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dotnet-using-divide-by-zero-exception/1.0.0": {
+        "runtime": {
+          "dotnet-using-divide-by-zero-exception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-using-divide-by-zero-exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
